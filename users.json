@@ -1,0 +1,22 @@
+{
+    "user1" : {
+       "name" : "Pawan iOS",
+       "password" : "PI@123",
+       "profession" : "iOS Develoer",
+       "id": 1
+    },
+    
+    "user2" : {
+       "name" : "Pawan Adnroid",
+       "password" : "PA@123",
+       "profession" : "Android Develoer",
+       "id": 2
+    },
+    
+    "user3" : {
+       "name" : "Pawan Node",
+       "password" : "PN@123",
+       "profession" : "Node Develoer",
+       "id": 3
+    }
+ }
